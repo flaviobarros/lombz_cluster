@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1455909407897.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E9D813ED",
+    "lastKnownWriteTime" : 176093659229,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3zzaihggz8",
+        "caption" : "pretinas",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pretinas&cache_key=3zzaihggz8",
+        "displayedObservations" : "25",
+        "environment" : "",
+        "object" : "pretinas",
+        "totalObservations" : "25",
+        "variables" : "10"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
